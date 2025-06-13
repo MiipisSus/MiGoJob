@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:MiipisSus/MiGoJob-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:MiipisSus/MiGoJob-frontend.git
