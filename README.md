@@ -23,6 +23,13 @@
 
    預設服務包含：Frontend + Backend (Django) + PostgreSQL
 
+4. 建立初始資料（Optional）
+
+   ```
+   docker compose exec backend /bin/bash
+   python3 manage.py seed_data
+   ```
+
 ## 🛠 Manual Setup
 
 ### 📦 Backend
