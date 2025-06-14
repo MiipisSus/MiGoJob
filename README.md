@@ -57,6 +57,11 @@
    docker compose exec backend /bin/bash
    python3 manage.py seed_data
    ```
+5. 現在你可以：
+
+    開啟瀏覽器進入前端介面：http://localhost
+
+    瀏覽後端 API 文件（Swagger UI）：http://localhost:8000/api/docs
 
 ## 🛠 Manual Setup
 
